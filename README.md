@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kushal Sharma</h1>
-<h3 align="center">A passionate QA Engineer from Pune</h3>
+<h3 align="center">A Passionate QA Engineer from Bhopal, Madhya Pradesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalsharma28&label=Profile%20views&color=0e75b6&style=flat" alt="kushalsharma28" /> </p>
 
 - 🔭 I’m currently working on [End Point Security (EPS)](https://adminconsole.net/)
 
-- 🌱 I’m currently learning **Flask, Django, ReactJS**
+- 🌱 I’m currently learning **Flask, Django, ReactJS, Docker, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/KushalSharma28](https://www.github.com/KushalSharma28)
 
