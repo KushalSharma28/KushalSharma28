@@ -1,9 +1,3 @@
-### Hi there 👋 I am Kushal Sharma
-
-- 🖥️ I'm a tech professional with 2.9 Years of Experience as a Software Test Engineer.
-- 🎓 I have done my Bachelor's in Computer Science and Engineering from RGPV University.
-- 💼 Currently I am Working as a QA Engineer in Biz Secure Labs Pvt. Ltd in Pune, Maharashtra.
-
 <h1 align="center">Hi 👋, I'm Kushal Sharma</h1>
 <h3 align="center">A passionate QA Engineer from Pune</h3>
 
