@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [End Point Security (EPS)](https://adminconsole.net/)
 
-- 🌱 I’m currently learning **Flask, Django, ReactJS, Docker, Kubernetes**
+- 🌱 I’m currently learning **Tricentis Tosca Automation Tool**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/KushalSharma28](https://www.github.com/KushalSharma28)
 
