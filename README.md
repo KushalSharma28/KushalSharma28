@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [End Point Security (EPS)](https://adminconsole.net/)
 
-- 🌱 I’m currently learning **Flask, Django, ReactJS**
+- 🌱 I’m currently learning **Collections in Java**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/KushalSharma28](https://github.com/KushalSharma28?tab=repositories)
 
