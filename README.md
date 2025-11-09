@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushal Sharma</h1>
 <h3 align="center">A passionate QA Engineer from Pune</h3>
 
-- 🔭 I’m currently working on [End Point Security (EPS)](https://adminconsole.net/)
+- 🔭 I worked on **Automation and Manual Testing Projects** <!-- [End Point Security (EPS)](https://adminconsole.net/) -->
 
-- 🌱 I’m currently learning **Playwright Framework**
+- 🌱 I’m currently learning **Tricentis TOSCA**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/KushalSharma28](https://github.com/KushalSharma28?tab=repositories)
 
