@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tricentis TOSCA**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/KushalSharma28](https://github.com/KushalSharma28?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repositories](https://github.com/KushalSharma28?tab=repositories)
 
 - 📫 How to reach me **kushalsharma28499@gmail.com**
 
