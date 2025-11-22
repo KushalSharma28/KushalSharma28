@@ -60,7 +60,5 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kushalsharma28&show_icons=true&theme=radical&hide_border=true" alt="Kushal's Github Stats" />
-  <br/><br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushalsharma28&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Kushal's Top Languages" />
 </div>
