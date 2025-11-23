@@ -20,8 +20,8 @@
 
 - 🔭 I work on **Automation and Manual Testing Projects**
 - 🌱 I’m currently advancing my skills in **Tricentis TOSCA**
-- 🧩 I specialize in **Selenium, Cypress, and Playwright**
-- 💬 Ask me about **QA Methodologies, Java, and Python**
+- 🧩 I specialize in **Selenium, Cypress, and Tosca**
+- 💬 Ask me about **QA Methodologies**
 - ⚡ Fun fact: **I love turning bugs into features... just kidding, I squash them!**
 
 ---
