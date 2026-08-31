@@ -3,7 +3,7 @@
   <h1 align="center">Hi there, I'm Kushal Sharma! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="wave"></h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=QA+Automation+Engineer;Passionate+about+Quality;Learning+Tricentis+TOSCA;Based+in+Gurugram,+India" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=QA+Automation+Engineer;Passionate+about+Quality;Learning+Generative+AI+and+AWS;Based+in+India" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -19,8 +19,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I work on **Automation and Manual Testing Projects**
-- 🌱 I’m currently advancing my skills in **Generative AI**
-- 🧩 I specialize in **Tricentis Tosca, qTest, Selenium, Cypress**
+- 🌱 I’m currently advancing my skills in **Generative AI and AwS**
+- 🧩 I specialize in **Tricentis Tosca, Playwright, Selenium, Cypress**
 - 💬 Ask me about **QA Methodologies**
 - ⚡ Fun fact: **I love to break the Software and Systems!**
 
